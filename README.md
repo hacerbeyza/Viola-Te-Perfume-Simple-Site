@@ -1,6 +1,5 @@
-    # Simple HTML Site
+# Simple HTML Site
 
-    Bu basit bir HTML/Bootstrap sitesidir.
+Bu basit bir HTML/Bootstrap sitesidir.
 
-    Canlı görüntüle: https://hacerbeyza.github.io/simple-html-site/
-
+[Canlı görüntüle](https://hacerbeyza.github.io/simple-html-site/) 
