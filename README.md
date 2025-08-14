@@ -1,4 +1,5 @@
-# Simple HTML Site
+# Proje Ana Sayfası:
+!(/img/proje-ekranı.png)
 
 Bu basit bir HTML/Bootstrap sitesidir.
 
