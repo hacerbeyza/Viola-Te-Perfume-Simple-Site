@@ -1,5 +1,5 @@
 # Proje Ana Sayfası:
-!(/img/proje-ekranı.png)
+![](/img/proje-ekranı.png)
 
 Bu basit bir HTML/Bootstrap sitesidir.
 
